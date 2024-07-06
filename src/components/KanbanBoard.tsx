@@ -103,7 +103,7 @@ function KanbanBoard() {
     );
 
   return (
-    <div className="bg-custom-bg text-white">
+    <div className="bg-custom-bg bg-cover bg-center bg-no-repeat text-white">
         
         <div className="flex items-center justify-center">
             <h1 className="text-3xl font-bold mt-20">Kanban Board</h1>
